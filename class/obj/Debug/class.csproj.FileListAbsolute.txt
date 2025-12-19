@@ -1,0 +1,6 @@
+C:\Users\almas\Desktop\New folder\class\class\bin\Debug\@class.exe.config
+C:\Users\almas\Desktop\New folder\class\class\bin\Debug\@class.exe
+C:\Users\almas\Desktop\New folder\class\class\bin\Debug\@class.pdb
+C:\Users\almas\Desktop\New folder\class\class\obj\Debug\class.csprojResolveAssemblyReference.cache
+C:\Users\almas\Desktop\New folder\class\class\obj\Debug\@class.exe
+C:\Users\almas\Desktop\New folder\class\class\obj\Debug\@class.pdb
